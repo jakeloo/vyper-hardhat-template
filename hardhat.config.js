@@ -17,7 +17,6 @@ task("accounts", "Prints the list of accounts", async () => {
 /**
  * @type import('hardhat/config').HardhatUserConfig
  */
-// solidity: "0.7.3",
 module.exports = {
   solidity: "0.8.3",
   vyper: "0.2.12",
